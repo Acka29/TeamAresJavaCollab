@@ -1,4 +1,4 @@
-package TeamAres.aleksandra;
+package teamAres.aleksandra;
 
 public class Task1Solution {
     public static void main(String[] args) {
