@@ -1,6 +1,6 @@
 package TeamAres;
 
-public class Task9 {
+public class FrequencyOfChars {
     public static void main(String[] args) {
         String word = "AAABJJJKK";
         String str = "";
