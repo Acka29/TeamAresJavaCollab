@@ -1,7 +1,7 @@
-package TeamAres.Ali;
+package TeamAres.Ali_Task3;
 
 
-    public class FinRa {
+    public class FinRa_Task3 {
         public static void main(String[] args) {
 
             String result = "";

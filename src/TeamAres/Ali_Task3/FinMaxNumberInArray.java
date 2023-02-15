@@ -1,4 +1,4 @@
-package TeamAres.Ali;
+package TeamAres.Ali_Task3;
 
 public class FinMaxNumberInArray {
 
