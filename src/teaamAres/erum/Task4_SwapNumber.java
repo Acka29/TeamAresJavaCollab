@@ -1,4 +1,4 @@
-package TeamAres.erum;
+package teaamAres.erum;
 
 public class Task4_SwapNumber {
     public static void main(String[] args) {
