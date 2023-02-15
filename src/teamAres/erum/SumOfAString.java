@@ -1,4 +1,4 @@
-package teaamAres.erum;
+package teamAres.erum;
 
 public class SumOfAString {
     public static int sumOfDigitsInAString(String str){

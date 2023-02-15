@@ -1,4 +1,4 @@
-package teaamAres;
+package teamAres;
 
 public class Java {
     public static void main(String[] args) {
