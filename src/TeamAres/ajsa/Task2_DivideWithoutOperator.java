@@ -1,6 +1,6 @@
 package TeamAres.ajsa;
 
-public class Task2 {
+public class Task2_DivideWithoutOperator {
     public static void main(String[] args) {
 
         divide(10, 3);

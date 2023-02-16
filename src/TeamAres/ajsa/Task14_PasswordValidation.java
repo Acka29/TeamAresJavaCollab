@@ -1,6 +1,6 @@
-package TeamAres.ajsa;
+package teamAres.ajsa;
 
-public class PasswordValidation {
+public class Task14_PasswordValidation {
 
     /*
 String -- Password Validation Task
